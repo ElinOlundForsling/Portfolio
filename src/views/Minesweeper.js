@@ -3,7 +3,7 @@ import TweenOne from 'rc-tween-one';
 import ScrollOverPack from 'rc-scroll-anim/lib/ScrollOverPack';
 import QueueAnim from 'rc-queue-anim';
 
-const Ahoy = ({ isMobile }) => {
+const Minesweeper = ({ isMobile }) => {
   return (
     <ScrollOverPack className='presentation'>
       <TweenOne
@@ -17,7 +17,7 @@ const Ahoy = ({ isMobile }) => {
         className='presentation-text'
         key='text'
         leaveReverse>
-        <h2 key='h2'>AHOY</h2>
+        <h2 key='h2'>Minesweeper</h2>
         <p key='p'>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -31,4 +31,4 @@ const Ahoy = ({ isMobile }) => {
   );
 };
 
-export default Ahoy;
+export default Minesweeper;

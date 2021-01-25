@@ -3,21 +3,15 @@ import TweenOne from 'rc-tween-one';
 import ScrollOverPack from 'rc-scroll-anim/lib/ScrollOverPack';
 import QueueAnim from 'rc-queue-anim';
 
-const Ahoy = ({ isMobile }) => {
+const Hel = ({ isMobile }) => {
   return (
     <ScrollOverPack className='presentation'>
-      <TweenOne
-        key='image'
-        className='ahoy-image presentation-image'
-        animation={{ x: 0, opacity: 1, ease: 'easeOutQuad' }}
-        style={{ transform: 'translateX(-100px)', opacity: 0 }}
-      />
       <QueueAnim
         type={isMobile ? 'right' : 'bottom'}
         className='presentation-text'
         key='text'
         leaveReverse>
-        <h2 key='h2'>AHOY</h2>
+        <h2 key='h2'>HEL</h2>
         <p key='p'>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -27,8 +21,14 @@ const Ahoy = ({ isMobile }) => {
           pariatur.
         </p>
       </QueueAnim>
+      <TweenOne
+        key='image'
+        className='ahoy-image presentation-image'
+        animation={{ x: 0, opacity: 1, ease: 'easeOutQuad' }}
+        style={{ transform: 'translateX(-100px)', opacity: 0 }}
+      />
     </ScrollOverPack>
   );
 };
 
-export default Ahoy;
+export default Hel;
