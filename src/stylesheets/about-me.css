@@ -1,0 +1,20 @@
+.about {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-text {
+  width: 50%;
+}
+
+.about-image {
+  width: 30%;
+  height: 100%;
+  position: relative;
+  background: url('../images/portrait_cropped.png') no-repeat center;
+  background-size: contain;
+}

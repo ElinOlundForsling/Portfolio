@@ -4404,18 +4404,6 @@
     "memory-fs" "^0.5.0"
     "tapable" "^1.0.0"
 
-"enquire-js@^0.2.1":
-  "integrity" "sha512-4vbcWD0ncK6VQ5M5giOImQb2hFPrKDZH5U+uRX9S6e9vfC6Q5PX6A38PVS6RMnCdr/luDTtJjjLuJinH/+a+Lw=="
-  "resolved" "https://registry.npmjs.org/enquire-js/-/enquire-js-0.2.1.tgz"
-  "version" "0.2.1"
-  dependencies:
-    "enquire.js" "^2.1.6"
-
-"enquire.js@^2.1.6":
-  "integrity" "sha1-PoeAybi4NQhMP2DhZtvDwqPImBQ="
-  "resolved" "https://registry.npmjs.org/enquire.js/-/enquire.js-2.1.6.tgz"
-  "version" "2.1.6"
-
 "enquirer@^2.3.5":
   "integrity" "sha512-yjNnPr315/FjS4zIsUxYguYUPP2e1NK4d7E7ZOLiyYCcbFBiTMyID+2wvm2w6+pZ/odMA7cRkjhsPbltwBOrLg=="
   "resolved" "https://registry.yarnpkg.com/enquirer/-/enquirer-2.3.6.tgz"

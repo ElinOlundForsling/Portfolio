@@ -1,5 +1,12 @@
 .footer {
-  background-color: grey;
-  height: 100px;
+  background-color: #0297af;
+  height: 20vh;
   width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.footer p {
+  color: #fff;
 }
