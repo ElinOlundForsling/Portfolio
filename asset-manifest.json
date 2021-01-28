@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5719420f.chunk.css",
+    "main.js": "/static/js/main.dbf91716.chunk.js",
+    "main.js.map": "/static/js/main.dbf91716.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5c415c94.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5c415c94.js.map",
+    "static/js/2.32aad266.chunk.js": "/static/js/2.32aad266.chunk.js",
+    "static/js/2.32aad266.chunk.js.map": "/static/js/2.32aad266.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5719420f.chunk.css.map": "/static/css/main.5719420f.chunk.css.map",
+    "static/js/2.32aad266.chunk.js.LICENSE.txt": "/static/js/2.32aad266.chunk.js.LICENSE.txt",
+    "static/media/landing.css": "/static/media/astronaut_cropped.a4b537d0.png",
+    "static/media/contact.css": "/static/media/contact_cropped.00857b5d.png",
+    "static/media/about-me.css": "/static/media/portrait_cropped.c26eb1af.png",
+    "static/media/presentation.css": "/static/media/screenshot-museion.10f36e44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c415c94.js",
+    "static/js/2.32aad266.chunk.js",
+    "static/css/main.5719420f.chunk.css",
+    "static/js/main.dbf91716.chunk.js"
+  ]
+}
